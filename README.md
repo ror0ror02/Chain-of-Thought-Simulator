@@ -25,7 +25,7 @@ The Chain of Thought Simulator is an experimental web application that mimics th
 
 1. Clone the repository:
    
-*git clone https://github.com/your-username/chain-of-thought-simulator.git*
+*git clone [https://github.com/your-username/chain-of-thought-simulator.git](https://github.com/ror0ror02/Chain-of-Thought-Simulator.git)*
 
 *cd chain-of-thought-simulator*
 
