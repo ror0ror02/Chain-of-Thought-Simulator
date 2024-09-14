@@ -19,7 +19,7 @@ The Chain of Thought Simulator is an experimental web application that mimics th
 
 - Backend: Python, Flask
 - Frontend: HTML, CSS, JavaScript
-- AI Simulation: Configurable to use various LLM models (default: GPT-4o-mini)
+- AI Simulation: Configurable to use various LLM models (default: GPT-4o)
 
 ## Installation and Setup
 
